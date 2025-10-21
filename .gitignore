@@ -76,5 +76,5 @@ out/
 .idea/
 .project
 .classpath
-.settings/
+.settings/git add .gitignore
 bin/
